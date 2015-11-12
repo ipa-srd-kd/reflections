@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 - fork: no permission to work on the original but still give credit to the contributed files
 - clone: when you need a copy of the files e.g. on your local computer
 - branch: when you want to add feature an keep a working project as backup
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- react on changes not made by yourself
