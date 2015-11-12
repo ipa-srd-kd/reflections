@@ -16,3 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easierm and what would be harder?
 - Cloud without version control: hard, noch backup, may no be up to date, not mergable
 - Conclusion: Git would be easier as it provides collaboration mechanismn
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- master: the most current working version. When you work alone
+- branch: when you collaborate and want input to changes you made in you separate branch
